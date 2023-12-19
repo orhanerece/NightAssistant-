@@ -1,7 +1,7 @@
 # NightAssistant
 
 
-TUBITAK National Observatory, T100 telescope main control software
+TUBITAK National Observatory (TUG), T100 telescope main control software
 
 
 
