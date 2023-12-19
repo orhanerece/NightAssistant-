@@ -1,4 +1,4 @@
-# NightAssistant-
+# NightAssistant
 
 
 TUBITAK National Observatory, T100 telescope control software
