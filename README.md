@@ -23,7 +23,7 @@ TABS DETAILING:
 
 - **Focus**
   
-  In this tab, there is optimized focus model on the left depends on altitude. One may adjust the focus value using "Adjust" button after selecting a value from the list. "JOG" buttons and "Go To Focus" button can also be used to control focus. Besides, on the bottom left, if autofocus checkbox is checked, focus is optimized during the observation. Also live ASC image and current meteo values can be seen on the right bottom. 
+  In this tab, there is optimized focus model on the left depends on altitude. One may adjust the focus value using "Adjust" button after selecting a value from the list. "JOG" buttons and "Go To Focus" button can also be used to control focus. Besides, on the bottom left, if autofocus checkbox is checked, focus is optimized automatically during the observation. Also live ASC image and current meteo values can be seen on the right bottom. 
 
   <img title="" src="https://github.com/orhanerece/nightassistant-/blob/main/img/2.png" alt="focus.png" width="228">
 
